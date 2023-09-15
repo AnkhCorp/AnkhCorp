@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## Tech Stack
-  
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"> 
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />     
+</div>
+
           
 
