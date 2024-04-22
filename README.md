@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,svelte,tailwind,linux,docker,express,flask,mongodb,mysql,nodejs,ps,postgres,postman,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,svelte,tailwind,linux,docker,flask,mongodb,mysql,nodejs,ps,postgres,)](https://skillicons.dev)
 
 
           
