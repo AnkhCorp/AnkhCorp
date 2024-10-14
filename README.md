@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,ruby,js,svelte,tailwind,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,ruby,js,php,sql,svelte,tailwind,)](https://skillicons.dev)
 
 
           
